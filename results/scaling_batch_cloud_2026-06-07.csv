@@ -1,0 +1,17 @@
+agent,backend,n,baseline_ram_mb,peak_ram_mb,delta_ram_mb,passed,wall_s
+zeroclaw,cloud,1,261,275,14,1,14
+zeroclaw,cloud,2,268,279,11,2,9
+zeroclaw,cloud,4,269,292,23,4,13
+zeroclaw,cloud,8,267,309,42,8,13
+picoclaw,cloud,1,264,282,18,1,14
+picoclaw,cloud,2,268,288,20,2,14
+picoclaw,cloud,4,267,304,37,4,8
+picoclaw,cloud,8,268,351,83,8,14
+nanobot,cloud,1,270,382,112,1,18
+nanobot,cloud,2,280,502,222,2,16
+nanobot,cloud,4,279,716,437,4,30
+nanobot,cloud,8,267,1166,899,8,31
+smolagents,cloud,1,295,359,64,1,14
+smolagents,cloud,2,278,419,141,2,18
+smolagents,cloud,4,277,562,285,4,26
+smolagents,cloud,8,272,844,572,8,31

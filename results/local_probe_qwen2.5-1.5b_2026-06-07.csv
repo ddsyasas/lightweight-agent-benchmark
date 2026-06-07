@@ -1,0 +1,5 @@
+agent,backend,task,trial,success,seconds,peak_mem_mb,notes
+smolagents,local,task1,1,fail,>1200,NA,probe-timeout
+picoclaw,local,task1,1,fail,Command,0.0,probe
+nanobot,local,task1,1,fail,Command,0.0,probe
+zeroclaw,local,task1,1,fail,Command,0.0,probe

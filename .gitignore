@@ -1,0 +1,19 @@
+# --- Private / never publish ---
+pdocs/
+data/
+.git.muvers-stray.bak/
+
+# --- Secrets (defensive; no live configs are committed) ---
+*.env
+.env
+**/secrets.*
+**/*config*.toml
+**/*config*.json
+
+# --- Noise ---
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+*.out
+results/*.out
